@@ -5,13 +5,29 @@ img {
     border: 5px solid yellow;
 }
 
+h1 {
+    font-size: 100px;
+    border: 5px solid pink;
+}
+
+
 body {
     background-color: #FAA1FF;
     color:aquamarine;
-    
+    font-family: 'Roboto Mono', monospace;
+
+
     
 }
 
 h2:hover {
     color:yellowgreen
+
 }
+ h2 {
+    font-family: 'Staatliches', cursive;
+ }
+ a:hover { 
+     color:yellowgreen
+
+ }
